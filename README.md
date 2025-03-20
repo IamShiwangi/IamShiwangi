@@ -8,7 +8,7 @@
 | **GitHub-Achievements** | 3 commits |
 | **Github-Profile** | 21 commits |
 | **Graphic-Designer-Pro** | 5 commits |
-| **iamAntimPal** | 20 commits |
+| **iamAntimPal** | 25 commits |
 
 
 ## 📊 Commit Distribution
