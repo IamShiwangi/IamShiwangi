@@ -5,7 +5,7 @@
 
 | 🔹 Repository Name | 📝 Commits Today |
 |-------------------|---------------|
-| **Github-Profile** | 4 commits |
+| **Github-Profile** | 17 commits |
 | **Graphic-Designer-Pro** | 5 commits |
 | **iamAntimPal** | 20 commits |
 
