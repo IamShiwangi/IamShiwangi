@@ -7,7 +7,7 @@
 |-------------------|---------------|
 | **Github-Profile** | 2 commits |
 | **Graphic-Designer-Pro** | 5 commits |
-| **iamAntimPal** | 7 commits |
+| **iamAntimPal** | 16 commits |
 
 
 ## 📊 Commit Distribution
