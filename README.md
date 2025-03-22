@@ -5,6 +5,8 @@
 
 | 🔹 Repository Name | 📝 Commits Today |
 |-------------------|---------------|
+| **Github-Profile** | 6 commits |
+| **LeetCode_Daily_Task** | 2 commits |
 
 
 ## 📊 Commit Distribution
